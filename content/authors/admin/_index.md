@@ -17,10 +17,11 @@ bio: I'm exploring the fields of computer science and data science.
 
 # Interests to show in About widget
 interests:
-- Data Engineering and Data Warehousing
+- Software Development and Quality Engineering 
+- Data Engineering
 - Machine Learning
 - Human-Computer Interaction 
-- Software Development and Quality Engineering 
+
 
 # Education to show in About widget
 education:
@@ -70,4 +71,4 @@ highlight_name: false
 
 Hi, I'm currently a student at the University of Minnesota and also an SDET at a local financial services company.
 
-##{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

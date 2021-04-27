@@ -13,11 +13,14 @@ organizations:
 - name: University of Minnesota 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm exploring the fields of computer science and data science.
 
 # Interests to show in About widget
 interests:
-
+- Data Engineering and Data Warehousing
+- Machine Learning
+- Human-Computer Interaction 
+- Software Development and Quality Engineering 
 
 # Education to show in About widget
 education:
